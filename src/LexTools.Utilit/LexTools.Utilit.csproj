@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>
+      Set of different utils for typical tasks.
+      - Tools: Certificate Validation, Serialization, Clone, Random tools
+    </Description>
+    <Copyright>Copyright  2017</Copyright>
+    <Authors>Lexruster</Authors>
+    <PackageIconUrl>http://findicons.com/files/icons/727/leopard/128/applescript_utility.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/lexruster/LexTools</PackageProjectUrl>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>LexTools.Utilit</PackageId>
+    <Company>Lexruster</Company>
+    <RepositoryUrl>https://github.com/lexruster/LexTools.git</RepositoryUrl>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Product>LexTools.Utilit</Product>
+  </PropertyGroup>
+
+</Project>

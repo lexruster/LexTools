@@ -1,0 +1,24 @@
+**/bin/
+**/lib/
+**/obj/
+project.lock.json
+**/*.vsp
+**/*.vs
+**/node_modules/
+**/packages/
+**/wwwroot/lib/
+**/Run/
+**/.fake/
+
+
+# Ignore logs 
+**/[Ll]ogs/
+**/*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.nupkg
+*.nupkg.bak
+*.sln.docstates
